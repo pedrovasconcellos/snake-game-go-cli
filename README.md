@@ -4,6 +4,10 @@ A terminal Snake game written in Go, inspired by the classic Nokia-era version.
 
 The snake grows when it eats food, the score increases, and the game gets faster as you improve. You can play the standard mode or enable obstacle mode for a tighter board.
 
+## Preview
+
+![Snake running in a terminal](assets/snake-demo.svg)
+
 ## Features
 
 - Classic terminal Snake gameplay.

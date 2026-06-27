@@ -4,5 +4,4 @@
 
   * 🐍 The snake grows when it eats points.
   * 📈 The larger the snake, the greater the difficulty.
-  * 💀 The game ends when the snake hits itself or the obstacles, depending
-  on the mode.
+  * 💀 The game ends when the snake hits itself or the obstacles, depending on the mode.
